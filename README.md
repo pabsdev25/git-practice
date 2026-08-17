@@ -8,3 +8,4 @@ This line exists only in learning-branch.
 
 
 I am learning how to collaborate with Git and GitHub.
+Character system development started.
